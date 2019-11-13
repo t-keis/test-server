@@ -4,7 +4,7 @@
     { "id": 2, "title": "jsonサーバからのレスポンスです", "author": "武田"}
   ],
   "profile": { 
-    "name": "articles": [
+    "name": [
       { "id": 1, "title": "json-server", "author": "typicode"},
       { "id": 2, "title": "jsonサーバからのレスポンスです", "author": "武田"}
     ]
